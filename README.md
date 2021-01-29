@@ -33,7 +33,7 @@ git features
 5. Check File Status
 6. Tracking and Staging a New File
 7. Directory into Git
-8. create a copy of an existing Git repository
+8. create a copy of an existing Git repository.
 
 ###TO KNOW THE HISTORY OF GIT AND HOW WE GETTING STARTED CLICK ON THE LINK
 
